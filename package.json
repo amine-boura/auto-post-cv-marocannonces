@@ -1,0 +1,17 @@
+{
+  "name": "autocv",
+  "version": "1.0.0",
+  "description": "postulation automatique cv en marocannonces",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node app/index.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0"
+  }
+}
